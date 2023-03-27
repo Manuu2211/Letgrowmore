@@ -1,3 +1,6 @@
 [submodule "RegisterFormm"]
 	path = RegisterFormm
 	url = https://github.com/Manuu2211/RegisterFormm.git
+[submodule "Calculator"]
+	path = Calculator
+	url = https://github.com/Manuu2211/Calculator.git
