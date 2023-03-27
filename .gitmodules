@@ -4,3 +4,6 @@
 [submodule "Calculator"]
 	path = Calculator
 	url = https://github.com/Manuu2211/Calculator.git
+[submodule "todolist"]
+	path = todolist
+	url = https://github.com/Manuu2211/todolist.git
